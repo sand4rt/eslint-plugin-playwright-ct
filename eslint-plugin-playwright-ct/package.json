@@ -1,0 +1,31 @@
+{
+  "name": "eslint-plugin-playwright-ct",
+  "version": "0.0.1",
+  "description": "ESLint plugin for Playwright component testing",
+  "homepage": "https://playwright.dev",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sand4rt/eslint-plugin-playwright-ct.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sand4rt/eslint-plugin-playwright-ct/issues"
+  },
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "default": "./index.js"
+    }
+  },
+  "keywords": [
+    "testing",
+    "component",
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin",
+    "playwright"
+  ],
+  "author": {
+    "name": "sand4rt"
+  },
+  "license": "MIT"
+}
